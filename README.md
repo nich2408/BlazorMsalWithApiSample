@@ -13,7 +13,7 @@ The sample provided uses MSAL library https://learn.microsoft.com/en-us/entra/id
 - `BlazorMsalWithApiSample.Shared` contains simple models.
 
 ### 💻 Usage
-API must be run in order to access the FetchData page from the Blazor app.
+API must be running in order to access the FetchData page from the Blazor app.
 
 If you are using Visual Studio, it's better to enable multiple startup projects like so:
 
