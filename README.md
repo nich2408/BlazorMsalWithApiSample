@@ -23,4 +23,4 @@ If you are using Visual Studio, it's better to enable multiple startup projects 
 
 ### ❔ Other info
 - The projects were created using `dotnet-8` with Visual Studio 2022 Community Edition
-- Blazor, Azure and Microsoft Entra logo are property of Microsoft https://www.microsoft.com/
+- Blazor, Azure and Microsoft Entra logos are property of Microsoft https://www.microsoft.com/
